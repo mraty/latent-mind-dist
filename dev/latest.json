@@ -1,23 +1,23 @@
 {
-  "version": "0.3.9-dev.1",
+  "version": "0.3.10-dev.1",
   "notes": "See the GitHub release for full details.",
-  "pub_date": "2026-11-07T14:16:59Z",
+  "pub_date": "2026-11-08T16:36:23Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZmlLT1JaTEEvaDh3Ym1mVkxjMjNSZHhmWEVzZm94OWhvOFZZRDNaU0F5MVJ5N0dEcWIycXZYM0V3TjV4dVBTUnlXbERCcGF4WWRKWWNkb3VWNlVNNi9RY3RGcnNYdUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDU5ODAxCWZpbGU6TGF0ZW50IE1pbmQuYXBwLnRhci5negpQV3hoc1llZnVZUFB1dFA4VUhGSnV4UFZFRzh6Y3RYdTlUWVE0UWdyUlVGQ21zaUhKSVU3aUVsajQxMzRiV2ZPYm5CYjVHWVpJaXRZQ3JHSW55amtBQT09Cg==",
-      "url": "https://github.com/mraty/latent-mind-dist/releases/download/v0.3.9-dev.1/Latent.Mind.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZmlLT1JaTEEvaDlrWkNOT254T1RZWlRNYnNBb2g0OHJnQVkrbFRiRE9ZVTgxbFJHZkV1VEtWeUwrQmorWWlsZERuSGcwZjR1TlJCYkZwZU5EM2V1WjFneVd1WDhoK3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU0NjU1CWZpbGU6TGF0ZW50IE1pbmQuYXBwLnRhci5negpDZlJIcVBuZ2Y1UTRzMGl1WEVFR3poWC9ZQ2IzQXViZEtwT013T2xMK1dqOTl5dE5ha1BkeHV4dTRBclF6bXZSbk5NU3VVa0V3cldJOXdBbzJ5RGNDQT09Cg==",
+      "url": "https://github.com/mraty/latent-mind-dist/releases/download/v0.3.10-dev.1/Latent.Mind.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZmlLT1JaTEEvaDh3Ym1mVkxjMjNSZHhmWEVzZm94OWhvOFZZRDNaU0F5MVJ5N0dEcWIycXZYM0V3TjV4dVBTUnlXbERCcGF4WWRKWWNkb3VWNlVNNi9RY3RGcnNYdUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDU5ODAxCWZpbGU6TGF0ZW50IE1pbmQuYXBwLnRhci5negpQV3hoc1llZnVZUFB1dFA4VUhGSnV4UFZFRzh6Y3RYdTlUWVE0UWdyUlVGQ21zaUhKSVU3aUVsajQxMzRiV2ZPYm5CYjVHWVpJaXRZQ3JHSW55amtBQT09Cg==",
-      "url": "https://github.com/mraty/latent-mind-dist/releases/download/v0.3.9-dev.1/Latent.Mind.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZmlLT1JaTEEvaDlrWkNOT254T1RZWlRNYnNBb2g0OHJnQVkrbFRiRE9ZVTgxbFJHZkV1VEtWeUwrQmorWWlsZERuSGcwZjR1TlJCYkZwZU5EM2V1WjFneVd1WDhoK3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU0NjU1CWZpbGU6TGF0ZW50IE1pbmQuYXBwLnRhci5negpDZlJIcVBuZ2Y1UTRzMGl1WEVFR3poWC9ZQ2IzQXViZEtwT013T2xMK1dqOTl5dE5ha1BkeHV4dTRBclF6bXZSbk5NU3VVa0V3cldJOXdBbzJ5RGNDQT09Cg==",
+      "url": "https://github.com/mraty/latent-mind-dist/releases/download/v0.3.10-dev.1/Latent.Mind.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZmlLT1JaTEEvaDQrUmVBLzVHNTFmL2t1Q3hnY0kzbjVWbUo1Q3dINUVrRVdGU2hzWnBqYVpTaUVrcDYyRFRjR0VETFM4aGNBanlnZGpCaHhpa2lMbm5sVUNJbFZSVVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDYwODg5CWZpbGU6TGF0ZW50IE1pbmRfMC4zLjlfeDY0LXNldHVwLmV4ZQo5aUhwaTRBYUxmOWxwb1p0RXVlUURWc2hoams2Z2hOY3VLNDE3WGFuVnFKcTFnMkVteFMwaDduOUZvaCtkWVFBaVZJNG51RkRSTjJROWsyYk5aa0xDQT09Cg==",
-      "url": "https://github.com/mraty/latent-mind-dist/releases/download/v0.3.9-dev.1/Latent.Mind_0.3.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZmlLT1JaTEEvaHdKcmFWM2kycWRVR3M0RkVIb0VOQUQ2UFFTWllTbWRvYVUxQnJKT0p4M2xGUHdTdXV3c3ZvYmRQdVh4Z2x5QjNMVmowU0drck1TUitRZlY2K2xMYmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU1Njc0CWZpbGU6TGF0ZW50IE1pbmRfMC4zLjEwX3g2NC1zZXR1cC5leGUKbWpKUm9rem9mbmxHWENRUUFkM1RLWEpFNFpqUjI0NzFhQTI5TFBiTml3R3RENnk1OU5rRWJQQ0dGR3VDeDFpNGpKb0ZRL0ppL0QwS2h4STFENjRhQ0E9PQo=",
+      "url": "https://github.com/mraty/latent-mind-dist/releases/download/v0.3.10-dev.1/Latent.Mind_0.3.10_x64-setup.exe"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZmlLT1JaTEEvaHppR3lGTVQ1UlVIeHBZM3luU04zU2NjLzVjZE8rb0lUUnRpL1Q2WitzcE5kWTd0ZFFucDVjMzJ2L0hJdXpwMWp5YWRqN05TaGlJUXlxL1g0OWc1MFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDYwNTA0CWZpbGU6TGF0ZW50IE1pbmRfMC4zLjlfYW1kNjQuQXBwSW1hZ2UKV3Z4d24xMEpuSVJNZW9MVnQyaDU2ZUJwV1JMWDdQZlBrU2l0cUZlY0Exak4wZWZBZ1h2V0dyUm5yL0tsVDlvQ3FXc3FGcmdvMEFxNlloWVQwMnpYQmc9PQo=",
-      "url": "https://github.com/mraty/latent-mind-dist/releases/download/v0.3.9-dev.1/Latent.Mind_0.3.9_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZmlLT1JaTEEvaDFRV25wbW5hVTFBYXZ2T1VWQ3lnTG1pa1ZUYkNnK0w0Q1MrZTlkMmc5Q3h0U1hPQ3YvTDVzZ3ozeEVyc3ZWSTZhaUk1RGRvMXZZNk5RcE1ML3RjN2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU1MzI3CWZpbGU6TGF0ZW50IE1pbmRfMC4zLjEwX2FtZDY0LkFwcEltYWdlCkZTZE1RWDgzcEJlSTNQODQwVmZobGxhUXg5Mk96eDBtMnd6K0RQanlORkk1WldwMmFDZ05mTzVxL0NtNUlmN0o5UEJGTzBucEcrMi8rcHpnOEpneUN3PT0K",
+      "url": "https://github.com/mraty/latent-mind-dist/releases/download/v0.3.10-dev.1/Latent.Mind_0.3.10_amd64.AppImage"
     }
   }
 }
